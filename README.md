@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br><br>Hi 👋, I’m Thrisha Gowda B L, a final-year Information Science & Engineering student interested in software engineering, machine learning, and deep learning, with a focus on building scalable and practical solutions.<br><br>🔭 I’m currently working on:<br>Full-stack and backend applications, automation-driven features, and applied machine learning projects.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, ML-driven applications, and real-world software systems.<br><br>🤝 I’m looking for help with:<br>Deploying ML/DL models, system scalability, and production-level backend design.<br><br>🌱 I’m currently learning:<br>Machine Learning, Deep Learning, model evaluation techniques, and enterprise-grade development practices.<br><br>💬 Ask me about:<br>Java, backend development, REST APIs, ML/DL fundamentals, and full-stack system design.<br><br>⚡ Fun fact:<br>I enjoy refining solutions until they’re both technically sound and cleanly implemented.
+<br><br>Hi 👋, I’m Thrisha Gowda B L, a final-year Information Science & Engineering student interested in software engineering, machine learning, and deep learning, with a focus on building scalable and practical solutions.<br><br>🔭 I’m currently working on:<br>Full-stack and backend applications, automation-driven features, and applied machine learning projects.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, ML-driven applications, and real-world software systems.<br><br>🤝 I’m looking for help with:<br>Deploying ML/DL models, system scalability, and production-level backend design.<br><br>🌱 I’m currently learning:<br>Machine Learning, Deep Learning, model evaluation techniques, and enterprise-grade development practices.<br><br>💬 Ask me about:<br>Java, backend development, REST APIs, ML/DL fundamentals, and full-stack system design.<br><br>⚡ Fun fact:<br>I enjoy refining solutions until they’re both technically sound and cleanly implemented.
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Thrishagowdabl&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thrishagowdabl&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thrishagowdabl&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Thrishagowdabl&icon=0&color=0)](https://visitcount.itsvg.in)
