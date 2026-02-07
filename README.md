@@ -1,6 +1,27 @@
-# 💫 About Me:
-<br><br>Hi 👋, I’m Thrisha Gowda B L, a final-year Information Science & Engineering student interested in software engineering, machine learning, and deep learning, with a focus on building scalable and practical solutions.<br><br>🔭 I’m currently working on:<br>Full-stack and backend applications, automation-driven features, and applied machine learning projects.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, ML-driven applications, and real-world software systems.<br><br>🤝 I’m looking for help with:<br>Deploying ML/DL models, system scalability, and production-level backend design.<br><br>🌱 I’m currently learning:<br>Machine Learning, Deep Learning, model evaluation techniques, and enterprise-grade development practices.<br><br>💬 Ask me about:<br>Java, backend development, REST APIs, ML/DL fundamentals, and full-stack system design.<br><br>⚡ Fun fact:<br>I enjoy refining solutions until they’re both technically sound and cleanly implemented.
+💫 About Me
+<br>
 
+Hi 👋, I’m Thrisha Gowda B L, a final-year Information Science & Engineering student with a strong interest in Software Engineering, Machine Learning, and Deep Learning. I enjoy building scalable, practical, and real-world solutions that bridge theory and production.
+
+<br>
+
+🔭 I’m currently working on:
+Full-stack and backend applications, automation-driven features, and applied ML projects.
+
+👯 I’m looking to collaborate on:
+Open-source contributions, ML-driven applications, and real-world software systems.
+
+🤝 I’m looking for help with:
+Deploying ML/DL models, improving system scalability, and production-level backend design.
+
+🌱 I’m currently learning:
+Machine Learning, Deep Learning, model evaluation techniques, and enterprise-grade development practices.
+
+💬 Ask me about:
+Java, backend development, REST APIs, ML/DL fundamentals, and full-stack system design.
+
+⚡ Fun fact:
+I enjoy refining solutions until they’re both technically sound and cleanly implemented.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thrisha-gowda-b-l-852217267) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thrishagowdabl2005@gmail.com) 
